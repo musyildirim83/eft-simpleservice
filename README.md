@@ -9,7 +9,7 @@ Build and package the example app:
 
 start the all services:
 
-    java -jar target/simpleservice.jar server config.yml
-    java -jar target/simpleservice.jar server config2.yml
-    java -jar target/simpleservice.jar server config3.yml
+    java -jar target/simpleservice.jar server conf/local/config.yml
+    java -jar target/simpleservice.jar server conf/local/config2.yml
+    java -jar target/simpleservice.jar server conf/local/config3.yml
 
