@@ -1,0 +1,3 @@
+**/*
+!target/simpleservice.jar
+!conf/*
